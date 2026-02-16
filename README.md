@@ -49,6 +49,9 @@ The system consists of five main components:
 - **Vector Database**: ChromaDB
 - **Framework**: LangChain
 - **Web Interface**: Gradio
+- **Data Processing**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+
 
 ## 📊 Dataset
 This project uses the **7K Books Dataset** from Kaggle, which includes:
@@ -78,5 +81,3 @@ This project uses the **7K Books Dataset** from Kaggle, which includes:
 
 ⭐ If you find this project helpful, please consider giving it a star on GitHub!
 
-- **Data Processing**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn
